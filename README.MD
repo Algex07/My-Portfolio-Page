@@ -8,3 +8,7 @@ Was very challenging to set up flex box.
 Box hover was added to meet the requirement of scaling when hover. 
 Media Query was added max with 500px. 
 Some image was taken to show progress. will be uplaoded after push to github. 
+![initial start](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/initial%20start.png)
+![progress in index.html](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/progress%20in%20html.png)
+![progress with styling in CSS](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/progress%20with%20styling.png)
+![scroll effect and background added](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/scroll%20effect%20and%20background%20added.png)
