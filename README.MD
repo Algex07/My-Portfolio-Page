@@ -20,3 +20,4 @@ link to my page:https://algex07.github.io/My-Portfolio-Page/
 ![progress in index.html](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/progress%20in%20html.png)
 ![progress with styling in CSS](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/progress%20with%20styling.png)
 ![scroll effect and background added](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/scroll%20effect%20and%20background%20added.png)
+![old look](https://github.com/Algex07/My-Portfolio-Page/blob/main/assets/images/old%20look.jpg?raw=true)
